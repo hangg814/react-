@@ -1,0 +1,13 @@
+.star{
+  display: flex;
+  p{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 100%;
+    margin: 0 10px;
+    &.hover{
+      background-color: aqua;
+    }
+  }
+}

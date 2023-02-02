@@ -1,0 +1,15 @@
+.star {
+  display: flex;
+}
+
+.star p {
+  width: 30px;
+  height: 30px;
+  background-color: brown;
+  border-radius: 100%;
+  margin: 0 10px;
+}
+
+.star p.hover {
+  background-color: aqua;
+}
